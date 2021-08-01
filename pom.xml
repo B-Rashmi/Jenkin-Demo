@@ -45,10 +45,15 @@
 		</plugins>
 	</build>
 	<distributionManagement>
-
-        <repository>
+	  <repository>
             <id>myMavenRepoRead</id>
             <url>https://mymavenrepo.com/repo/9b4CbRjA5FMPfuqsrDzn/</url>
         </repository>    
-       </distributionManagement>
+    </distributionManagement>
+    <repositories>
+        <repository>
+            <id>myMavenRepo.read</id>
+            <url>${myMavenRepo.read.url}</url>
+        </repository>
+    </repositories>
 </project>
