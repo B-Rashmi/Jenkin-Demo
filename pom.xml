@@ -44,10 +44,11 @@
 			</plugin>
 		</plugins>
 	</build>
-	<repositories>
+	<distributionManagement>
+
         <repository>
             <id>myMavenRepoRead</id>
             <url>${myMavenRepoReadUrl}</url>
-        </repository>
-    </repositories>
+        </repository>    
+       </distributionManagement>
 </project>
