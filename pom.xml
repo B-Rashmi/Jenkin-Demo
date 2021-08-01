@@ -48,7 +48,7 @@
 
         <repository>
             <id>myMavenRepoRead</id>
-            <url>${myMavenRepoReadUrl}</url>
+            <url>https://mymavenrepo.com/repo/9b4CbRjA5FMPfuqsrDzn/</url>
         </repository>    
        </distributionManagement>
 </project>
