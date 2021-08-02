@@ -53,7 +53,7 @@
     <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>${myMavenRepo.read.url}</url>
+            <url>https://mymavenrepo.com/repo/9b4CbRjA5FMPfuqsrDzn/</url>
         </repository>
     </repositories>
 </project>
